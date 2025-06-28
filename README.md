@@ -6,7 +6,7 @@ Faiz Ahamed Shaik</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/teavee/posts/?feedView=all" target="blank">TeaVee (LA Based Startup)</a>
+- 🔭 I previously worked at <a href="https://www.linkedin.com/company/teavee/posts/?feedView=all" target="blank">TeaVee (Startup)</a> as a Full Stack Engineer Intern
 
 - 🌱 I’m currently Working on building a smart inventory management system: <a href="https://github.com/Faizahamed-S/OrgNice" target="blank">**OrgNice**</a> (MERN Stack)
 
